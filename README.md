@@ -3,13 +3,11 @@
 * comme un bloc pour ne pas oublier ce qu'il nous faut
 **très important**
 
-gdfgfd
+* [ ] Cornichon
 
-- [ ] Cornichon
+* [x] Radis
 
-- [x] Radis
-
-- [ ] Curcuma 
+* [ ] Curcuma 
 
 
 **Auteur** 
